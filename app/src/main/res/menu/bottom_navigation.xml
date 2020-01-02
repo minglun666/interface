@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="home"/>
+    <item
+        android:id="@+id/nav_game"
+        android:icon="@drawable/ic_videogame_asset_black_24dp"
+        android:title="game"/>
+    <item
+        android:id="@+id/nav_camera"
+        android:icon="@drawable/ic_photo_camera_black_24dp"
+        android:title="camera"/>
+    <item
+        android:id="@+id/nav_form"
+        android:icon="@drawable/ic_format_list_numbered_black_24dp"
+        android:title="form"/>
+    <item
+        android:id="@+id/nav_mumber"
+        android:icon="@drawable/ic_card_membership_black_24dp"
+        android:title="mumber"/>
+</menu>
